@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Pradipwasre
-- 👀 I’m interested in the state-of-the-art models...
-- 🌱 I’m currently applying concepts of Deep Learning ...
-- 💞️ I’m looking to collaborate on NLP and Computer Vision...
-- 📫 How to reach me Linkedin @pradipwasre..
+- 🌱 Enthusiastic about Data Science and Data Engineering
+- 🔭 Actively pursuing projects in AIML and Big Data
+- 💻 Experienced in Data Structures and Algorithms, SQL
 
 <!---
 Pradipwasre/Pradipwasre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
