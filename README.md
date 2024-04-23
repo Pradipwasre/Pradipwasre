@@ -7,7 +7,7 @@
 
 # Let's Connect!
 
-I'm actively seeking opportunities to kick-start my career in data science and data engineering. If you're looking for a motivated team player with a passion for data, let's chat! I'm excited to contribute and grow in this dynamic field.
+I'm actively seeking opportunities to kick-start my career in data science / data engineering. If you're looking for a motivated team player with a passion for data, let's chat! I'm excited to contribute and grow in this dynamic field.
 
 <!---
 Pradipwasre/Pradipwasre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
