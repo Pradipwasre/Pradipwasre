@@ -2,7 +2,7 @@
 - 🔭 Passionate about applying Machine Learning and Data Engineering concepts to real-world problems.
 - 💻 Skilled in Data Structures and Algorithms {Python}, SQL. 
 # What I'm Working On
-- 📊 Building projects to showcase data science and data engineering skills
+- 📊 Azure & AWS cloud
 - 🌐 Current Status: Working on End-To-End MLOps project.
 
 # Let's Connect!
