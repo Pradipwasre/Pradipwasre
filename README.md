@@ -2,7 +2,7 @@
 
 🌐 Passionate about harnessing data to drive actionable insights and enhance decision-making. Currently building projects in predictive modeling, natural language processing, and deep learning using Python and R.
 
-🔭 Exploring new datasets and methodologies to solve real-world challenges in areas such as finance, e-commerce, and healthcare.
+🔭 Exploring new datasets and methodologies to solve real-world challenges.
 
 💼 Open to collaborative opportunities and learning experiences in data science and machine learning domains.
 
